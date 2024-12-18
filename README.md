@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋,i'm Haythem Ben Slima
+i am a computer science student looking to enhance my skills. Currently i am exploring different tools and languages...
 <!--
 **BShaythem/BShaythem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
